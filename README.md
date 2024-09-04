@@ -9,3 +9,9 @@
 8. Make a payment from the second Customer to the Merchant.
 9. The second Customer checks both balance and transaction statement.
 10. The Merchant checks their balance.
+
+# Test Cases For my Project -
+ - [Click Here To Open Test Cases on DMoney APIs](https://docs.google.com/spreadsheets/d/1cGM0UKiFCwRpFosZIlTMw2fyO6W5wkxe9fyeQ3fpKGc/edit?usp=sharing)
+
+# Bug Report For My Project -
+ -  [Click Here To Open Bug Report on DMoney APIs](https://docs.google.com/spreadsheets/d/1BEXQOKZuqPUv1CBNdCexjiaCzT8x1fdp_vZvv9qI-18/edit?usp=sharing)
