@@ -1,7 +1,7 @@
 # DMoney Rest API Testing Project
 
 ## Project Summery -
- Here I have Performed Integration and API Automation Testing of DMoney API Collection. Specially on the Transaction APIS.
+ DMoney is a demo financial related project where fake money can be transferred.Here I have Performed Integration and API Automation Testing of DMoney API Collection. 
 
 ## Testcase scenarios
 1. Admin creates an Agent, 2 random Customers, and a Merchant.
